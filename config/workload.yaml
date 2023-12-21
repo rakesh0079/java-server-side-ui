@@ -18,6 +18,6 @@ spec:
         autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: https://github.com/spring-projects/spring-petclinic
+      url: https://github.com/rakesh0079/java-server-side-ui
       ref:
         branch: main
